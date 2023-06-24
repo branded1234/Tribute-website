@@ -1,0 +1,56 @@
+.body{
+    margin-top: 0;
+}
+h2{
+    font-size: 300%;
+    margin-bottom: 0;
+    font-weight: 200;
+}
+h4{
+    font-size: 120%;
+    margin-top: 0;
+}
+h3{
+    font-size: 200%;
+    margin-bottom: 0;
+    font-weight: 200;
+}
+p{
+    font-size: 120%;
+}
+.list{
+    font-size: 120%;
+}
+.top-section{
+    margin-bottom: 30%;
+}
+.bibliography-section{
+    margin-bottom: 7%;
+}
+.container{
+    align-items: center;
+    margin: auto 220px ;
+}
+.picture{
+    max-width: 30%;
+    border-radius: 45%;
+    float: left;
+}
+.side-text{
+    text-align: center;
+    margin: 0px auto 250px auto ;
+    position: relative;
+    right: 1rem;
+    top: 13.5rem;
+}
+.side-text h1{
+    font-size: 300%;
+    margin-bottom: 0;
+}
+.side-text h4{
+    text-align: right;
+    margin-right: 13%;
+}
+footer{
+    text-align: right;
+}
